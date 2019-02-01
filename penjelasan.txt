@@ -38,4 +38,6 @@ git push origin master
 git pull 
 -> untuk menambahkan dari github ke dalam git
 
+
+
 ------------
