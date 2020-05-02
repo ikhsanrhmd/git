@@ -1,5 +1,4 @@
 # git
-            Git
             ==
 git add nama file -> memasukan nama git
 
@@ -30,7 +29,7 @@ git branch -m baru branchbaru
 
 git merge master
 -> menggabungkan 2 branch
-
+==
 		GitHub
 		 ====
 git push origin master
